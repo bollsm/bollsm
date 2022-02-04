@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gabriel
+- 👋 Hi, I’m @bollsm
 - 👀 I’m interested in programming
 - 🌱 I’m currently html
 - 💞️ I’m looking to collaborate on ...
